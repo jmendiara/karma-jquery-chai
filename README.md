@@ -30,6 +30,8 @@ module.exports = function(config) {
     // ...
 ```
 
+---
+
 It can coexist with others plugins based on peerDependencies without any trouble. Wanna have the magic combo of `sinon` + `chai` + `sinon-chai` + `jquery` + `chai-jquery`?
 
 install [karma-chai-sinon](https://github.com/tubalmartin/karma-chai-sinon) and add it as a framework
@@ -47,7 +49,8 @@ module.exports = function(config) {
 
     // ...
 ```
----
-Thanks to [Túbal Martín](https://github.com/tubalmartin) for the inspiration of this plugin and the Very Obvious C&P of his README.md
+License
+-------
+Thanks to [Túbal Martín](https://github.com/tubalmartin) for this plugin inspiration and the Very-Obvious-C&P of his [README.md](https://github.com/tubalmartin/karma-chai-sinon/blob/master/README.md)
 
 MIT Licensed
