@@ -54,3 +54,7 @@ License
 Thanks to [Túbal Martín](https://github.com/tubalmartin) for this plugin inspiration and the Very-Obvious-C&P of his [README.md](https://github.com/tubalmartin/karma-chai-sinon/blob/master/README.md)
 
 MIT Licensed
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jmendiara/karma-jquery-chai/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
