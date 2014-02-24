@@ -1,0 +1,33 @@
+{
+  "name": "karma-jquery-chai",
+  "version": "0.1.0",
+  "description": "A Karma plugin - adapter for chai-jquery.",
+  "main": "./index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jmendiara/karma-jquery-chai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmendiara/karma-jquery-chai/issues"
+  },
+  "homepage": "https://github.com/jmendiara/karma-jquery-chai",
+  "keywords": [
+    "karma-plugin",
+    "karma-adapter",
+    "chai",
+    "jquery",
+    "chai-jquery"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "karma": "0.10.x",
+    "jquery": "*",
+    "chai": "*",
+    "chai-jquery": "*"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-release": "~0.7.0"
+  }
+}
