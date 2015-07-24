@@ -3,6 +3,10 @@
   "version": "0.1.2",
   "description": "A Karma plugin - adapter for chai-jquery.",
   "main": "./index.js",
+  "author": "Javier Mendiara Cañardo <jmendiara@gmail.com>",
+  "contributors": [
+    "Jonny Gerig Meyer <jonny@oddbird.net> (http://www.oddbird.net)"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
