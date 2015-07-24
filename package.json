@@ -21,7 +21,7 @@
   ],
   "dependencies": {},
   "peerDependencies": {
-    "karma": "~0.10 || ~0.12 || ~0.13",
+    "karma": ">=0.10",
     "jquery": "*",
     "chai": "*",
     "chai-jquery": "*"
