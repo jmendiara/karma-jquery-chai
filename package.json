@@ -1,6 +1,6 @@
 {
   "name": "karma-jquery-chai",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A Karma plugin - adapter for chai-jquery.",
   "main": "./index.js",
   "author": "Javier Mendiara Cañardo <jmendiara@gmail.com>",
